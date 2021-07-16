@@ -1,0 +1,14 @@
+[J0eZPg_cchkw#0] ^ספרים/ספר<n><m><pl>$
+[/J0eZPg_cchkw]
+[PbHeP1r9kAhh#0] ^ביתי/ביתי<adj><m><sg>/בית<n><m><sg><px1sg>$
+[/PbHeP1r9kAhh]
+[aoEFHls4_4BZ#0] ^ביתך/בית<n><m><sg><px2sg_m>/בית<n><m><sg><px2sg_f>$
+[/aoEFHls4_4BZ]
+[dPVX8BERl3ma#0] ^בית/בית<n><m><sg>/בית<n><m><sg><cons>$
+[/dPVX8BERl3ma]
+[lhzSNY0zVflQ#0] ^דת/דת<n><f><sg>/דת<n><f><sg><cons>$
+[/lhzSNY0zVflQ]
+[rsj4gziBwBXr#0] ^ספר/ספר<n><m><sg>/ספר<n><m><sg><cons>$
+[/rsj4gziBwBXr]
+[ukrCYNyaeai-#0] ^הדת/ה<det><def>+דת<n><f><sg>/ה<det><def>+דת<n><f><sg><cons>$
+[/ukrCYNyaeai-]

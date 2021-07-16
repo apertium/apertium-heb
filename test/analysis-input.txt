@@ -1,0 +1,8 @@
+# from https://wiki.apertium.org/wiki/Maltese_and_Hebrew/Regression_tests
+ספר
+ספרים
+דת
+הדת
+בית
+ביתי
+ביתך
